@@ -1,4 +1,9 @@
-#write your code here
+counter = 0
 
-def countdown
+def countdown(number)
+  while number > 0
+  
+  end
 end
+
+countown(10)
